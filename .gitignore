@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# WordPress files not needed for static site
+xmlrpc.php
+wp-config.php
+wp-content/debug.log
+wp-to-html-asset-map.json
+
+# MiMoCode
+.mimocode/
