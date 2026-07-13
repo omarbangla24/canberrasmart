@@ -1,6 +1,6 @@
-# Canberra Solar Shine
+# Canberra Smart Energy
 
-Static website for Canberra Solar Shine - your local solar professionals in ACT and NSW.
+Static website for Canberra Smart Energy - your local solar professionals in ACT and NSW.
 
 ## Pages
 
